@@ -1,5 +1,5 @@
 {
-	"startbit.startbit_Init":"startbit板初始化，请在开机时执行",
+	"startbit.startbit_Init":"Inizializza la scheda startbit",
 	"startbit.startbit_setBusServo": "设置总线舵机运行，角度范围-120~120",
 	"startbit.startbit_setMotorSpeed":"设置马达1和马达2的速度，速度范围-100到100，可控制坦克车行进和转弯",
 	"startbit.onstartbit_custom_ir_pressed":"红外检测到指定的用户自定义的码值时触发",
@@ -63,4 +63,5 @@
 	"startbit.startbit_MP3_VOL":"调整播放音量，需要在播放前设置，范围0-30",
 	"startbit.startbit_MP3_SINGLE_LOOP":"开启或者关闭单曲循环，需要在播放后设置",
 	"startbit.startbit_MP3_PLAY_NUM":"播放指定序号的歌曲，歌曲需要放在sd卡里，名称为MP3的文件夹里，并且歌曲名称以4位数字开头，如0001，0100，1000"	
+
 }
